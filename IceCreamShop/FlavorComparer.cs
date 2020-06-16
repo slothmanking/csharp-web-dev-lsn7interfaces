@@ -11,10 +11,5 @@ namespace IceCreamShop
         {
             return string.Compare(x.Name, y.Name);
         }
-
-        public int Compare([AllowNull] Flavor x, [AllowNull] Flavor y)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

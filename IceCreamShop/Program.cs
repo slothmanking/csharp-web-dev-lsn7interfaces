@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace IceCreamShop
 {
-    //HI
-
     class Program
     {
         static void Main(string[] args)
